@@ -1,0 +1,22 @@
+
+Language / Category	Common Extensions
+C	.c, .h
+C++	.cpp, .cc, .cxx, .hpp, .hxx
+Java	.java, .class, .jar
+Python	.py, .pyc, .pyo, .pyw
+JavaScript	.js, .mjs, .cjs
+TypeScript	.ts, .tsx
+HTML	.html, .htm
+CSS	.css
+PHP	.php, .phtml, .php3, .php4, .php5
+Ruby	.rb, .erb
+Go	.go
+Rust	.rs
+Kotlin	.kt, .kts
+Swift	.swift
+Perl	.pl, .pm
+Shell Scripts	.sh, .bash, .zsh
+Batch Files	.bat, .cmd
+SQL	.sql
+Configuration	.json, .xml, .yaml, .yml, .ini, .toml
+Compiled Binaries	.exe, .dll, .so, .o, .out
